@@ -1,0 +1,7 @@
+F:\C#\Practice\HomeWorks\Oсновы\Текстовые типы данных\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\C#\Practice\HomeWorks\Oсновы\Текстовые типы данных\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\C#\Practice\HomeWorks\Oсновы\Текстовые типы данных\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\C#\Practice\HomeWorks\Oсновы\Текстовые типы данных\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+F:\C#\Practice\HomeWorks\Oсновы\Текстовые типы данных\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\C#\Practice\HomeWorks\Oсновы\Текстовые типы данных\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\C#\Practice\HomeWorks\Oсновы\Текстовые типы данных\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
