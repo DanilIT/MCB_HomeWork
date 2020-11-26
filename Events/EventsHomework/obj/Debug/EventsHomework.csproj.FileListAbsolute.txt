@@ -1,0 +1,7 @@
+F:\C#\Practice\HomeWorks\Events\EventsHomework\bin\Debug\EventsHomework.exe.config
+F:\C#\Practice\HomeWorks\Events\EventsHomework\bin\Debug\EventsHomework.exe
+F:\C#\Practice\HomeWorks\Events\EventsHomework\bin\Debug\EventsHomework.pdb
+F:\C#\Practice\HomeWorks\Events\EventsHomework\obj\Debug\EventsHomework.csprojAssemblyReference.cache
+F:\C#\Practice\HomeWorks\Events\EventsHomework\obj\Debug\EventsHomework.csproj.CoreCompileInputs.cache
+F:\C#\Practice\HomeWorks\Events\EventsHomework\obj\Debug\EventsHomework.exe
+F:\C#\Practice\HomeWorks\Events\EventsHomework\obj\Debug\EventsHomework.pdb
